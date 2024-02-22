@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'wolf';
-  src:  url('fonts/wolf.eot?r180vw');
-  src:  url('fonts/wolf.eot?r180vw#iefix') format('embedded-opentype'),
-    url('fonts/wolf.ttf?r180vw') format('truetype'),
-    url('fonts/wolf.woff?r180vw') format('woff'),
-    url('fonts/wolf.svg?r180vw#wolf') format('svg');
+  src:  url('wolf.eot?r180vw');
+  src:  url('wolf.eot?r180vw#iefix') format('embedded-opentype'),
+    url('wolf.ttf?r180vw') format('truetype'),
+    url('wolf.woff?r180vw') format('woff'),
+    url('wolf.svg?r180vw#wolf') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
