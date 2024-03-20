@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'wolf';
-  src:  url('wolf.eot?r180vw');
-  src:  url('wolf.eot?r180vw#iefix') format('embedded-opentype'),
-    url('wolf.ttf?r180vw') format('truetype'),
-    url('wolf.woff?r180vw') format('woff'),
-    url('wolf.svg?r180vw#wolf') format('svg');
+  src:  url('fonts/wolf.eot?qj4g0q');
+  src:  url('fonts/wolf.eot?qj4g0q#iefix') format('embedded-opentype'),
+    url('fonts/wolf.ttf?qj4g0q') format('truetype'),
+    url('fonts/wolf.woff?qj4g0q') format('woff'),
+    url('fonts/wolf.svg?qj4g0q#wolf') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.wolf-wolf:before {
+.wolf-Schoolsistance-Logo:before {
   content: "\e900";
 }

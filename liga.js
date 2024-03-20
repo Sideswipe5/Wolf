@@ -25,7 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
-            'wolf': '&#xe900;',
+            'school': '&#xe900;',
           '0': 0
         };
         delete icons['0'];
